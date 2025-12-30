@@ -39,5 +39,5 @@ My goal is to grow into a solid ML/AI engineer through real projects and discipl
 ---
 
 ## How to reach me
-- [GitHuB](https://github.com/SumeetBhosale17)
+- [GitHub](https://github.com/SumeetBhosale17)
 - [LinkedIn](https://www.linkedin.com/in/sumeetbhosale17)
