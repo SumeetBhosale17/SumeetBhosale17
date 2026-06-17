@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sumeet Bhosale
 
-I'm a 3rd-year B.Tech Computer Science student focused om building strong fundamentals in Python, Data Science, and Machine Leaning.
+I'm a 4th-year B.Tech Computer Science student focused on building strong fundamentals in Python, Data Science, and Machine Leaning.
 
 I prefer understanding systems deeply over rushing through frameworks.
 My goal is to grow into a solid ML/AI engineer through real projects and disciplined practice.
